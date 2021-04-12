@@ -1,1 +1,3 @@
 InscricaoEstadual
+CNPJ
+EMPRESAID
